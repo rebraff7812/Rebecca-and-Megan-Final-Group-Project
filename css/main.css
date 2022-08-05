@@ -17,4 +17,27 @@
     color: white;
     text-align: center;
   }
+
+  .logo {
+    display: inline-block;
+    background-color: transparent;
+    background-image: url("../images/logo.png");
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    height: 90px;
+    width: 300px;
+    margin: 50px;
+    margin-top: 25px;
+    align-items: center;
+  }
+
+
+  
+.center {
+  height: 90px;
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
   
