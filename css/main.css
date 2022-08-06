@@ -90,8 +90,11 @@
   margin-bottom: 50px;
 }
 
-.text p {
+.text h6 {
   margin-bottom: 100px;
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
 }
 
 .sideAccent-flip {
